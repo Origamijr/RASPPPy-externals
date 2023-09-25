@@ -1,0 +1,9 @@
+[audio]
+chunk_size = 512
+sample_rate = 48000
+latency = 'low'
+analysis_lib = 'librosa'
+
+[files]
+base_library = 'objects'
+external_libraries = ['externals']

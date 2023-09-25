@@ -1,0 +1,4 @@
+pip install datasets transformers optimum[graphcore]
+pip install auto-gptq
+pip install --upgrade optimum
+pip install --upgrade accelerate
